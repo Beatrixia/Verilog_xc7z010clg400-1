@@ -1,0 +1,1 @@
+This test use IP XADC to test how to write Verilog ,no knowledge ,no experience ,no brain just luck and AI Gemini Claude
